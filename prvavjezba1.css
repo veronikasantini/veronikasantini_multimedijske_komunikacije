@@ -1,0 +1,25 @@
+p. {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+
+
+body {
+  background-color: lightblue;
+}
+
